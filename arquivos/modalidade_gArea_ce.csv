@@ -1,0 +1,151 @@
+,modalidade,R$,grande_area
+0,AED - Auxílio a Editoração e Publicação,52500.0,Todas
+1,APQ - Auxílio a Pesquisa,9354184.66,Todas
+2,ARC - Promoção de Eventos Científicos,451000.0,Todas
+3,AT - Apoio Técnico a Pesquisa,88450.0,Todas
+4,ATP - Apoio Técnico em Extensão no País ,143900.0,Todas
+5,DCR - Desenvolvimento Cientifico Regional,672200.0,Todas
+6,DT - Produtividade Desen. Tec. e Extensão ,304700.0,Todas
+7,DTI - Desenvolvimento Tecnológico Industrial,785660.0,Todas
+8,EV - Especialista Visitante,91500.0,Todas
+9,EXP - Extensão no País,99060.0,Todas
+10,GD - Doutorado,3081902.0,Todas
+11,GM - Mestrado,1993500.0,Todas
+12,IC - Iniciação Científica,4216400.0,Todas
+13,ICJ - Iniciação Científica Júnior,251100.0,Todas
+14,IT - Iniciação Tecnológica,426800.0,Todas
+15,ITC - Iniciação Tecnológica em TICs,22000.0,Todas
+16,ITI - Iniciação Tecnológica e Industrial,75044.0,Todas
+17,PAV - Bolsa Pesquisador-Avaliador,1200.0,Todas
+18,PDI - Pos-doutorado Empresarial,24600.0,Todas
+19,PDJ - Pós-doutorado Júnior,391100.0,Todas
+20,PDS - Pós-doutorado Sênior,9600.0,Todas
+21,PQ - Produtividade em Pesquisa,6671480.0,Todas
+22,PV - Pesquisador Visitante,127207.31,Todas
+23,SET - Fixação de Recursos Humanos,879700.0,Todas
+24,SWP - Doutorado-Sanduiche no Pais,15200.0,Todas
+0,AED - Auxílio a Editoração e Publicação,12000.0,Ciências Agrárias
+1,AED - Auxílio a Editoração e Publicação,40500.0,Ciências Humanas
+2,APQ - Auxílio a Pesquisa,960382.5700000001,Ciências Agrárias
+3,APQ - Auxílio a Pesquisa,2158260.0,Ciências Biológicas
+4,APQ - Auxílio a Pesquisa,1058900.0,Ciências Exatas e da Terra
+5,APQ - Auxílio a Pesquisa,584385.36,Ciências Humanas
+6,APQ - Auxílio a Pesquisa,294005.71,Ciências Sociais Aplicadas
+7,APQ - Auxílio a Pesquisa,1265191.21,Ciências da Saúde
+8,APQ - Auxílio a Pesquisa,2498657.81,Engenharias
+9,APQ - Auxílio a Pesquisa,40000.0,"Lingüística, Letras e Artes"
+10,APQ - Auxílio a Pesquisa,494402.0,Outra
+11,ARC - Promoção de Eventos Científicos,40000.0,Ciências Agrárias
+12,ARC - Promoção de Eventos Científicos,125000.0,Ciências Biológicas
+13,ARC - Promoção de Eventos Científicos,186000.0,Ciências Exatas e da Terra
+14,ARC - Promoção de Eventos Científicos,100000.0,Engenharias
+15,AT - Apoio Técnico a Pesquisa,23100.0,Ciências Biológicas
+16,AT - Apoio Técnico a Pesquisa,3300.0,Ciências Exatas e da Terra
+17,AT - Apoio Técnico a Pesquisa,1650.0,Ciências Humanas
+18,AT - Apoio Técnico a Pesquisa,15400.0,Ciências Sociais Aplicadas
+19,AT - Apoio Técnico a Pesquisa,18950.0,Ciências da Saúde
+20,AT - Apoio Técnico a Pesquisa,13150.0,Engenharias
+21,AT - Apoio Técnico a Pesquisa,800.0,"Lingüística, Letras e Artes"
+22,AT - Apoio Técnico a Pesquisa,12100.0,Outra
+23,ATP - Apoio Técnico em Extensão no País ,15050.0,Ciências Agrárias
+24,ATP - Apoio Técnico em Extensão no País ,2550.0,Ciências Biológicas
+25,ATP - Apoio Técnico em Extensão no País ,800.0,Ciências Exatas e da Terra
+26,ATP - Apoio Técnico em Extensão no País ,112850.0,Ciências da Saúde
+27,ATP - Apoio Técnico em Extensão no País ,6600.0,Engenharias
+28,ATP - Apoio Técnico em Extensão no País ,6050.0,"Lingüística, Letras e Artes"
+29,DCR - Desenvolvimento Cientifico Regional,244200.0,Ciências Agrárias
+30,DCR - Desenvolvimento Cientifico Regional,200200.0,Ciências Biológicas
+31,DCR - Desenvolvimento Cientifico Regional,91600.0,Ciências Exatas e da Terra
+32,DCR - Desenvolvimento Cientifico Regional,105000.0,Ciências Humanas
+33,DCR - Desenvolvimento Cientifico Regional,31200.0,Engenharias
+34,DT - Produtividade Desen. Tec. e Extensão ,304700.0,Tecnologias
+35,DTI - Desenvolvimento Tecnológico Industrial,192000.0,Ciências Agrárias
+36,DTI - Desenvolvimento Tecnológico Industrial,40000.0,Ciências Biológicas
+37,DTI - Desenvolvimento Tecnológico Industrial,112200.0,Ciências Exatas e da Terra
+38,DTI - Desenvolvimento Tecnológico Industrial,153360.0,Ciências da Saúde
+39,DTI - Desenvolvimento Tecnológico Industrial,191400.0,Engenharias
+40,DTI - Desenvolvimento Tecnológico Industrial,96700.0,Outra
+41,EV - Especialista Visitante,31500.0,Ciências Agrárias
+42,EV - Especialista Visitante,35000.0,Ciências da Saúde
+43,EV - Especialista Visitante,25000.0,Engenharias
+44,EXP - Extensão no País,99060.0,Ciências da Saúde
+45,GD - Doutorado,352784.0,Ciências Agrárias
+46,GD - Doutorado,687410.0,Ciências Biológicas
+47,GD - Doutorado,922676.0,Ciências Exatas e da Terra
+48,GD - Doutorado,337220.0,Ciências Humanas
+49,GD - Doutorado,62256.0,Ciências Sociais Aplicadas
+50,GD - Doutorado,412446.0,Ciências da Saúde
+51,GD - Doutorado,211132.0,Engenharias
+52,GD - Doutorado,95978.0,"Lingüística, Letras e Artes"
+53,GM - Mestrado,462000.0,Ciências Agrárias
+54,GM - Mestrado,154500.0,Ciências Biológicas
+55,GM - Mestrado,618000.0,Ciências Exatas e da Terra
+56,GM - Mestrado,210000.0,Ciências Humanas
+57,GM - Mestrado,124500.0,Ciências Sociais Aplicadas
+58,GM - Mestrado,147000.0,Ciências da Saúde
+59,GM - Mestrado,210000.0,Engenharias
+60,GM - Mestrado,67500.0,Outra
+61,IC - Iniciação Científica,413600.0,Ciências Agrárias
+62,IC - Iniciação Científica,512000.0,Ciências Biológicas
+63,IC - Iniciação Científica,706000.0,Ciências Exatas e da Terra
+64,IC - Iniciação Científica,620000.0,Ciências Humanas
+65,IC - Iniciação Científica,305600.0,Ciências Sociais Aplicadas
+66,IC - Iniciação Científica,858000.0,Ciências da Saúde
+67,IC - Iniciação Científica,390800.0,Engenharias
+68,IC - Iniciação Científica,169200.0,"Lingüística, Letras e Artes"
+69,IC - Iniciação Científica,56000.0,Outra
+70,IC - Iniciação Científica,185200.0,Tecnologias
+71,ICJ - Iniciação Científica Júnior,11700.0,Ciências Agrárias
+72,ICJ - Iniciação Científica Júnior,7700.0,Ciências Biológicas
+73,ICJ - Iniciação Científica Júnior,147100.0,Ciências Exatas e da Terra
+74,ICJ - Iniciação Científica Júnior,25900.0,Ciências Humanas
+75,ICJ - Iniciação Científica Júnior,5500.0,Ciências Sociais Aplicadas
+76,ICJ - Iniciação Científica Júnior,16500.0,Ciências da Saúde
+77,ICJ - Iniciação Científica Júnior,19800.0,Engenharias
+78,ICJ - Iniciação Científica Júnior,14900.0,"Lingüística, Letras e Artes"
+79,ICJ - Iniciação Científica Júnior,2000.0,Tecnologias
+80,IT - Iniciação Tecnológica,85600.0,Ciências Agrárias
+81,IT - Iniciação Tecnológica,21200.0,Ciências Biológicas
+82,IT - Iniciação Tecnológica,109200.0,Ciências Exatas e da Terra
+83,IT - Iniciação Tecnológica,37200.0,Ciências Humanas
+84,IT - Iniciação Tecnológica,6800.0,Ciências Sociais Aplicadas
+85,IT - Iniciação Tecnológica,80800.0,Ciências da Saúde
+86,IT - Iniciação Tecnológica,70800.0,Engenharias
+87,IT - Iniciação Tecnológica,15200.0,Tecnologias
+88,ITC - Iniciação Tecnológica em TICs,4500.0,Ciências Exatas e da Terra
+89,ITC - Iniciação Tecnológica em TICs,8000.0,Ciências Humanas
+90,ITC - Iniciação Tecnológica em TICs,9500.0,Engenharias
+91,ITI - Iniciação Tecnológica e Industrial,34800.0,Ciências Agrárias
+92,ITI - Iniciação Tecnológica e Industrial,1044.0,Ciências Exatas e da Terra
+93,ITI - Iniciação Tecnológica e Industrial,12000.0,Ciências da Saúde
+94,ITI - Iniciação Tecnológica e Industrial,27200.0,Engenharias
+95,PAV - Bolsa Pesquisador-Avaliador,1200.0,Ciências Exatas e da Terra
+96,PDI - Pos-doutorado Empresarial,24600.0,Ciências Biológicas
+97,PDJ - Pós-doutorado Júnior,54000.0,Ciências Agrárias
+98,PDJ - Pós-doutorado Júnior,72000.0,Ciências Biológicas
+99,PDJ - Pós-doutorado Júnior,130100.0,Ciências Exatas e da Terra
+100,PDJ - Pós-doutorado Júnior,58500.0,Ciências da Saúde
+101,PDJ - Pós-doutorado Júnior,76500.0,Engenharias
+102,PDS - Pós-doutorado Sênior,4800.0,Ciências Agrárias
+103,PDS - Pós-doutorado Sênior,4800.0,Ciências Humanas
+104,PQ - Produtividade em Pesquisa,717800.0,Ciências Agrárias
+105,PQ - Produtividade em Pesquisa,1111940.0,Ciências Biológicas
+106,PQ - Produtividade em Pesquisa,1860540.0,Ciências Exatas e da Terra
+107,PQ - Produtividade em Pesquisa,586500.0,Ciências Humanas
+108,PQ - Produtividade em Pesquisa,431100.0,Ciências Sociais Aplicadas
+109,PQ - Produtividade em Pesquisa,863180.0,Ciências da Saúde
+110,PQ - Produtividade em Pesquisa,889180.0,Engenharias
+111,PQ - Produtividade em Pesquisa,133940.0,"Lingüística, Letras e Artes"
+112,PQ - Produtividade em Pesquisa,77300.0,Outra
+113,PV - Pesquisador Visitante,21300.0,Ciências Biológicas
+114,PV - Pesquisador Visitante,40020.53,Ciências Humanas
+115,PV - Pesquisador Visitante,39886.78,Ciências Sociais Aplicadas
+116,PV - Pesquisador Visitante,26000.0,Ciências da Saúde
+117,SET - Fixação de Recursos Humanos,236500.0,Ciências Agrárias
+118,SET - Fixação de Recursos Humanos,101200.0,Ciências Biológicas
+119,SET - Fixação de Recursos Humanos,141900.0,Ciências Exatas e da Terra
+120,SET - Fixação de Recursos Humanos,10500.0,Ciências Humanas
+121,SET - Fixação de Recursos Humanos,258500.0,Ciências da Saúde
+122,SET - Fixação de Recursos Humanos,77100.0,Engenharias
+123,SET - Fixação de Recursos Humanos,54000.0,Outra
+124,SWP - Doutorado-Sanduiche no Pais,15200.0,Ciências da Saúde

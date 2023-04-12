@@ -1,0 +1,604 @@
+,uf,modalidade,R$
+0,AC,Todas,1160165.0
+1,AL,Todas,7090757.8
+2,AM,Todas,17964666.01
+3,AP,Todas,1385442.24
+4,BA,Todas,59219444.68
+5,CE,Todas,30229987.97
+6,DF,Todas,65749320.49
+7,ES,Todas,13455119.13
+8,Exterior,Todas,40015041.03
+9,GO,Todas,27660680.21
+10,MA,Todas,7089276.21
+11,MG,Todas,159343106.43
+12,MS,Todas,13050276.209999999
+13,MT,Todas,9737814.91
+14,PA,Todas,26355291.8
+15,PB,Todas,28628723.02
+16,PE,Todas,51361551.9
+17,PI,Todas,5781315.05
+18,PR,Todas,79478384.77
+19,RJ,Todas,206128397.8
+20,RN,Todas,19691894.09
+21,RO,Todas,3421147.99
+22,RR,Todas,1258873.22
+23,RS,Todas,136088406.1
+24,SC,Todas,60334558.27
+25,SE,Todas,10799925.620000001
+26,SP,Todas,415665842.16
+27,TO,Todas,3688291.75
+0,AC,APQ - Auxílio a Pesquisa,442265.0
+1,AC,ARC - Promoção de Eventos Científicos,50000.0
+2,AC,DCR - Desenvolvimento Cientifico Regional,102800.0
+3,AC,EXP - Extensão no País,6600.0
+4,AC,GM - Mestrado,13500.0
+5,AC,IC - Iniciação Científica,408400.0
+6,AC,ICJ - Iniciação Científica Júnior,11400.0
+7,AC,IT - Iniciação Tecnológica,72400.0
+8,AC,PQ - Produtividade em Pesquisa,52800.0
+9,AL,APQ - Auxílio a Pesquisa,2421351.8
+10,AL,ARC - Promoção de Eventos Científicos,60000.0
+11,AL,AT - Apoio Técnico a Pesquisa,43200.0
+12,AL,ATP - Apoio Técnico em Extensão no País ,35150.0
+13,AL,DCR - Desenvolvimento Cientifico Regional,141000.0
+14,AL,DT - Produtividade Desen. Tec. e Extensão ,139980.0
+15,AL,DTI - Desenvolvimento Tecnológico Industrial,36100.0
+16,AL,EXP - Extensão no País,111360.0
+17,AL,GD - Doutorado,645906.0
+18,AL,GM - Mestrado,127500.0
+19,AL,IC - Iniciação Científica,1560000.0
+20,AL,ICJ - Iniciação Científica Júnior,63700.0
+21,AL,IT - Iniciação Tecnológica,183600.0
+22,AL,PDJ - Pós-doutorado Júnior,162350.0
+23,AL,PQ - Produtividade em Pesquisa,1359560.0
+24,AM,ADC - Apoio à Difusão do Conhecimento,23184.0
+25,AM,AED - Auxílio a Editoração e Publicação,24000.0
+26,AM,APQ - Auxílio a Pesquisa,7343835.76
+27,AM,ARC - Promoção de Eventos Científicos,50000.0
+28,AM,AT - Apoio Técnico a Pesquisa,25650.0
+29,AM,DCR - Desenvolvimento Cientifico Regional,201282.25
+30,AM,DT - Produtividade Desen. Tec. e Extensão ,55400.0
+31,AM,DTI - Desenvolvimento Tecnológico Industrial,1542400.0
+32,AM,EV - Especialista Visitante,153500.0
+33,AM,EXP - Extensão no País,81940.0
+34,AM,GD - Doutorado,1001284.0
+35,AM,GM - Mestrado,706500.0
+36,AM,IC - Iniciação Científica,1772400.0
+37,AM,ICJ - Iniciação Científica Júnior,60300.0
+38,AM,IEX - Iniciação ao Extensionismo,360.0
+39,AM,IT - Iniciação Tecnológica,194400.0
+40,AM,ITI - Iniciação Tecnológica e Industrial,15200.0
+41,AM,PCI - Programa de Capacitação Institucional,2911870.0
+42,AM,PDJ - Pós-doutorado Júnior,307100.0
+43,AM,PQ - Produtividade em Pesquisa,1320360.0
+44,AM,PV - Pesquisador Visitante,31200.0
+45,AM,SET - Fixação de Recursos Humanos,142500.0
+46,AP,APQ - Auxílio a Pesquisa,544142.24
+47,AP,DCR - Desenvolvimento Cientifico Regional,147000.0
+48,AP,DT - Produtividade Desen. Tec. e Extensão ,9900.0
+49,AP,DTI - Desenvolvimento Tecnológico Industrial,93600.0
+50,AP,EXP - Extensão no País,12100.0
+51,AP,GD - Doutorado,24200.0
+52,AP,GM - Mestrado,15000.0
+53,AP,IC - Iniciação Científica,324800.0
+54,AP,ICJ - Iniciação Científica Júnior,2900.0
+55,AP,IT - Iniciação Tecnológica,78800.0
+56,AP,ITI - Iniciação Tecnológica e Industrial,26400.0
+57,AP,PQ - Produtividade em Pesquisa,94600.0
+58,AP,SET - Fixação de Recursos Humanos,12000.0
+59,BA,AED - Auxílio a Editoração e Publicação,31000.0
+60,BA,APQ - Auxílio a Pesquisa,35765967.1
+61,BA,ARC - Promoção de Eventos Científicos,317000.0
+62,BA,AT - Apoio Técnico a Pesquisa,160100.0
+63,BA,ATP - Apoio Técnico em Extensão no País ,44500.0
+64,BA,DT - Produtividade Desen. Tec. e Extensão ,371960.0
+65,BA,DTI - Desenvolvimento Tecnológico Industrial,2213780.0
+66,BA,EV - Especialista Visitante,58000.0
+67,BA,EXP - Extensão no País,299760.0
+68,BA,GD - Doutorado,3920735.57
+69,BA,GM - Mestrado,1332000.0
+70,BA,IC - Iniciação Científica,6061600.0
+71,BA,ICJ - Iniciação Científica Júnior,159200.0
+72,BA,IT - Iniciação Tecnológica,600800.0
+73,BA,ITC - Iniciação Tecnológica em TICs,1500.0
+74,BA,ITI - Iniciação Tecnológica e Industrial,140488.0
+75,BA,PDI - Pos-doutorado Empresarial,20500.0
+76,BA,PDJ - Pós-doutorado Júnior,778600.0
+77,BA,PDS - Pós-doutorado Sênior,169000.0
+78,BA,PQ - Produtividade em Pesquisa,6136954.01
+79,BA,SET - Fixação de Recursos Humanos,636000.0
+80,CE,AED - Auxílio a Editoração e Publicação,52500.0
+81,CE,APQ - Auxílio a Pesquisa,9354184.66
+82,CE,ARC - Promoção de Eventos Científicos,451000.0
+83,CE,AT - Apoio Técnico a Pesquisa,88450.0
+84,CE,ATP - Apoio Técnico em Extensão no País ,143900.0
+85,CE,DCR - Desenvolvimento Cientifico Regional,672200.0
+86,CE,DT - Produtividade Desen. Tec. e Extensão ,304700.0
+87,CE,DTI - Desenvolvimento Tecnológico Industrial,785660.0
+88,CE,EV - Especialista Visitante,91500.0
+89,CE,EXP - Extensão no País,99060.0
+90,CE,GD - Doutorado,3081902.0
+91,CE,GM - Mestrado,1993500.0
+92,CE,IC - Iniciação Científica,4216400.0
+93,CE,ICJ - Iniciação Científica Júnior,251100.0
+94,CE,IT - Iniciação Tecnológica,426800.0
+95,CE,ITC - Iniciação Tecnológica em TICs,22000.0
+96,CE,ITI - Iniciação Tecnológica e Industrial,75044.0
+97,CE,PAV - Bolsa Pesquisador-Avaliador,1200.0
+98,CE,PDI - Pos-doutorado Empresarial,24600.0
+99,CE,PDJ - Pós-doutorado Júnior,391100.0
+100,CE,PDS - Pós-doutorado Sênior,9600.0
+101,CE,PQ - Produtividade em Pesquisa,6671480.0
+102,CE,PV - Pesquisador Visitante,127207.31
+103,CE,SET - Fixação de Recursos Humanos,879700.0
+104,CE,SWP - Doutorado-Sanduiche no Pais,15200.0
+105,DF,AED - Auxílio a Editoração e Publicação,116500.0
+106,DF,APQ - Auxílio a Pesquisa,22878298.74
+107,DF,ARC - Promoção de Eventos Científicos,641000.0
+108,DF,AT - Apoio Técnico a Pesquisa,64350.0
+109,DF,ATP - Apoio Técnico em Extensão no País ,45900.0
+110,DF,DT - Produtividade Desen. Tec. e Extensão ,594400.0
+111,DF,DTC - Desenvolvimento Tecnológico em TICs,214000.0
+112,DF,DTI - Desenvolvimento Tecnológico Industrial,6718520.0
+113,DF,EPI - Bolsa de Treinamento - Programa ,1764371.75
+114,DF,EV - Especialista Visitante,1179000.0
+115,DF,EXP - Extensão no País,396800.0
+116,DF,GD - Doutorado,5693830.0
+117,DF,GM - Mestrado,2146500.0
+118,DF,IC - Iniciação Científica,4928000.0
+119,DF,ICJ - Iniciação Científica Júnior,2743000.0
+120,DF,IEX - Iniciação ao Extensionismo,14040.0
+121,DF,IT - Iniciação Tecnológica,288000.0
+122,DF,ITC - Iniciação Tecnológica em TICs,8000.0
+123,DF,ITI - Iniciação Tecnológica e Industrial,809200.0
+124,DF,PAV - Bolsa Pesquisador-Avaliador,103800.0
+125,DF,PCI - Programa de Capacitação Institucional,3277560.0
+126,DF,PDI - Pos-doutorado Empresarial,90200.0
+127,DF,PDJ - Pós-doutorado Júnior,941250.0
+128,DF,PDS - Pós-doutorado Sênior,182750.0
+129,DF,PQ - Produtividade em Pesquisa,8898900.0
+130,DF,PV - Pesquisador Visitante,63150.0
+131,DF,SET - Fixação de Recursos Humanos,939200.0
+132,DF,SWP - Doutorado-Sanduiche no Pais,8800.0
+133,ES,ADC - Apoio à Difusão do Conhecimento,5232.0
+134,ES,APQ - Auxílio a Pesquisa,3583346.13
+135,ES,ARC - Promoção de Eventos Científicos,110000.0
+136,ES,AT - Apoio Técnico a Pesquisa,19250.0
+137,ES,ATP - Apoio Técnico em Extensão no País ,45850.0
+138,ES,DCR - Desenvolvimento Cientifico Regional,1497400.0
+139,ES,DT - Produtividade Desen. Tec. e Extensão ,160600.0
+140,ES,DTI - Desenvolvimento Tecnológico Industrial,174480.0
+141,ES,EV - Especialista Visitante,22500.0
+142,ES,EXP - Extensão no País,23980.0
+143,ES,GD - Doutorado,872996.0
+144,ES,GM - Mestrado,282000.0
+145,ES,IC - Iniciação Científica,1664000.0
+146,ES,ICJ - Iniciação Científica Júnior,98700.0
+147,ES,IT - Iniciação Tecnológica,175600.0
+148,ES,ITI - Iniciação Tecnológica e Industrial,1600.0
+149,ES,PCI - Programa de Capacitação Institucional,1808170.0
+150,ES,PDJ - Pós-doutorado Júnior,198450.0
+151,ES,PDS - Pós-doutorado Sênior,28800.0
+152,ES,PQ - Produtividade em Pesquisa,2589065.0
+153,ES,PV - Pesquisador Visitante,31200.0
+154,ES,SET - Fixação de Recursos Humanos,61900.0
+155,Exterior,DEJ - Desenvolvimento Tecnológico e Inovação ,240174.76
+156,Exterior,DES - Desenvolvimento Tecnológico e Inovação ,365774.26
+157,Exterior,ESN - Estágio Sênior no Exterior,736897.39
+158,Exterior,GD - Doutorado,147858.0
+159,Exterior,GDE - Doutorado no Exterior,2909935.4
+160,Exterior,GM - Mestrado,76500.0
+161,Exterior,PDE - Pós-doutorado no Exterior,19988386.85
+162,Exterior,SET - Fixação de Recursos Humanos,63000.0
+163,Exterior,SWE - Doutorado Sanduíche no Exterior,15486514.37
+164,GO,ADC - Apoio à Difusão do Conhecimento,53903.0
+165,GO,APQ - Auxílio a Pesquisa,13679262.209999999
+166,GO,ARC - Promoção de Eventos Científicos,151665.0
+167,GO,AT - Apoio Técnico a Pesquisa,92600.0
+168,GO,ATP - Apoio Técnico em Extensão no País ,41100.0
+169,GO,DCR - Desenvolvimento Cientifico Regional,894550.0
+170,GO,DT - Produtividade Desen. Tec. e Extensão ,220000.0
+171,GO,DTI - Desenvolvimento Tecnológico Industrial,1217900.0
+172,GO,EV - Especialista Visitante,38500.0
+173,GO,EXP - Extensão no País,34620.0
+174,GO,GD - Doutorado,2191930.0
+175,GO,GM - Mestrado,1110000.0
+176,GO,IC - Iniciação Científica,2816400.0
+177,GO,ICJ - Iniciação Científica Júnior,239200.0
+178,GO,IEX - Iniciação ao Extensionismo,12240.0
+179,GO,IT - Iniciação Tecnológica,354800.0
+180,GO,ITC - Iniciação Tecnológica em TICs,9000.0
+181,GO,ITI - Iniciação Tecnológica e Industrial,50800.0
+182,GO,PAV - Bolsa Pesquisador-Avaliador,1200.0
+183,GO,PDJ - Pós-doutorado Júnior,436950.0
+184,GO,PDS - Pós-doutorado Sênior,48000.0
+185,GO,PQ - Produtividade em Pesquisa,3614960.0
+186,GO,SET - Fixação de Recursos Humanos,351100.0
+187,MA,APQ - Auxílio a Pesquisa,3306524.21
+188,MA,ARC - Promoção de Eventos Científicos,158000.0
+189,MA,AT - Apoio Técnico a Pesquisa,18000.0
+190,MA,ATP - Apoio Técnico em Extensão no País ,33850.0
+191,MA,DCR - Desenvolvimento Cientifico Regional,368150.0
+192,MA,DT - Produtividade Desen. Tec. e Extensão ,34100.0
+193,MA,DTI - Desenvolvimento Tecnológico Industrial,180560.0
+194,MA,EXP - Extensão no País,83100.0
+195,MA,GD - Doutorado,46692.0
+196,MA,GM - Mestrado,102000.0
+197,MA,IC - Iniciação Científica,1527200.0
+198,MA,ICJ - Iniciação Científica Júnior,135800.0
+199,MA,IEX - Iniciação ao Extensionismo,3600.0
+200,MA,IT - Iniciação Tecnológica,102000.0
+201,MA,ITI - Iniciação Tecnológica e Industrial,7200.0
+202,MA,PDS - Pós-doutorado Sênior,28800.0
+203,MA,PQ - Produtividade em Pesquisa,937700.0
+204,MA,SET - Fixação de Recursos Humanos,16000.0
+205,MG,ADC - Apoio à Difusão do Conhecimento,30894.0
+206,MG,AED - Auxílio a Editoração e Publicação,258350.0
+207,MG,APQ - Auxílio a Pesquisa,69295640.07
+208,MG,ARC - Promoção de Eventos Científicos,820665.0
+209,MG,AT - Apoio Técnico a Pesquisa,306550.0
+210,MG,ATP - Apoio Técnico em Extensão no País ,180000.0
+211,MG,DT - Produtividade Desen. Tec. e Extensão ,987800.0
+212,MG,DTI - Desenvolvimento Tecnológico Industrial,4630120.0
+213,MG,EV - Especialista Visitante,125500.0
+214,MG,EXP - Extensão no País,792200.0
+215,MG,GD - Doutorado,22088044.36
+216,MG,GM - Mestrado,7822500.0
+217,MG,IC - Iniciação Científica,12057200.0
+218,MG,ICJ - Iniciação Científica Júnior,441000.0
+219,MG,IEX - Iniciação ao Extensionismo,2520.0
+220,MG,IT - Iniciação Tecnológica,1300400.0
+221,MG,ITC - Iniciação Tecnológica em TICs,54000.0
+222,MG,ITI - Iniciação Tecnológica e Industrial,320893.0
+223,MG,PAV - Bolsa Pesquisador-Avaliador,24980.0
+224,MG,PCI - Programa de Capacitação Institucional,479960.0
+225,MG,PDI - Pos-doutorado Empresarial,94300.0
+226,MG,PDJ - Pós-doutorado Júnior,4577900.0
+227,MG,PDS - Pós-doutorado Sênior,480000.0
+228,MG,PQ - Produtividade em Pesquisa,30493820.0
+229,MG,PV - Pesquisador Visitante,15600.0
+230,MG,SET - Fixação de Recursos Humanos,1648320.0
+231,MG,SWP - Doutorado-Sanduiche no Pais,13950.0
+232,MS,AED - Auxílio a Editoração e Publicação,19500.0
+233,MS,APQ - Auxílio a Pesquisa,5727393.13
+234,MS,ARC - Promoção de Eventos Científicos,120000.0
+235,MS,AT - Apoio Técnico a Pesquisa,30750.0
+236,MS,ATP - Apoio Técnico em Extensão no País ,18200.0
+237,MS,DCR - Desenvolvimento Cientifico Regional,445000.0
+238,MS,DT - Produtividade Desen. Tec. e Extensão ,52800.0
+239,MS,DTI - Desenvolvimento Tecnológico Industrial,357300.0
+240,MS,EV - Especialista Visitante,77500.0
+241,MS,EXP - Extensão no País,163740.0
+242,MS,GD - Doutorado,599669.08
+243,MS,GM - Mestrado,508500.0
+244,MS,IC - Iniciação Científica,2343600.0
+245,MS,ICJ - Iniciação Científica Júnior,123500.0
+246,MS,IEX - Iniciação ao Extensionismo,18360.0
+247,MS,IT - Iniciação Tecnológica,178000.0
+248,MS,ITI - Iniciação Tecnológica e Industrial,97104.0
+249,MS,PDI - Pos-doutorado Empresarial,20500.0
+250,MS,PDJ - Pós-doutorado Júnior,166500.0
+251,MS,PQ - Produtividade em Pesquisa,1859960.0
+252,MS,SET - Fixação de Recursos Humanos,122400.0
+253,MT,ADC - Apoio à Difusão do Conhecimento,1449.0
+254,MT,AED - Auxílio a Editoração e Publicação,24000.0
+255,MT,APQ - Auxílio a Pesquisa,4186787.91
+256,MT,ARC - Promoção de Eventos Científicos,26000.0
+257,MT,AT - Apoio Técnico a Pesquisa,3900.0
+258,MT,ATP - Apoio Técnico em Extensão no País ,42850.0
+259,MT,DCR - Desenvolvimento Cientifico Regional,623350.0
+260,MT,DT - Produtividade Desen. Tec. e Extensão ,62200.0
+261,MT,DTI - Desenvolvimento Tecnológico Industrial,252800.0
+262,MT,EV - Especialista Visitante,33500.0
+263,MT,EXP - Extensão no País,20900.0
+264,MT,GD - Doutorado,511248.0
+265,MT,GM - Mestrado,373500.0
+266,MT,IC - Iniciação Científica,1822800.0
+267,MT,ICJ - Iniciação Científica Júnior,234300.0
+268,MT,IT - Iniciação Tecnológica,170400.0
+269,MT,ITI - Iniciação Tecnológica e Industrial,26400.0
+270,MT,PDJ - Pós-doutorado Júnior,162350.0
+271,MT,PQ - Produtividade em Pesquisa,941180.0
+272,MT,SET - Fixação de Recursos Humanos,217900.0
+273,PA,AED - Auxílio a Editoração e Publicação,20750.0
+274,PA,APQ - Auxílio a Pesquisa,7782994.8
+275,PA,ARC - Promoção de Eventos Científicos,270665.0
+276,PA,AT - Apoio Técnico a Pesquisa,50700.0
+277,PA,ATP - Apoio Técnico em Extensão no País ,36050.0
+278,PA,BJT - Atração de Jovens Talentos,8200.0
+279,PA,DCR - Desenvolvimento Cientifico Regional,50400.0
+280,PA,DT - Produtividade Desen. Tec. e Extensão ,232300.0
+281,PA,DTI - Desenvolvimento Tecnológico Industrial,354800.0
+282,PA,EV - Especialista Visitante,3500.0
+283,PA,EXP - Extensão no País,227760.0
+284,PA,GD - Doutorado,4012062.0
+285,PA,GM - Mestrado,2161500.0
+286,PA,IC - Iniciação Científica,3607200.0
+287,PA,ICJ - Iniciação Científica Júnior,171700.0
+288,PA,IT - Iniciação Tecnológica,155200.0
+289,PA,ITC - Iniciação Tecnológica em TICs,8000.0
+290,PA,ITI - Iniciação Tecnológica e Industrial,120800.0
+291,PA,PCI - Programa de Capacitação Institucional,2177500.0
+292,PA,PDI - Pos-doutorado Empresarial,12300.0
+293,PA,PDJ - Pós-doutorado Júnior,603350.0
+294,PA,PDS - Pós-doutorado Sênior,87350.0
+295,PA,PQ - Produtividade em Pesquisa,4082460.0
+296,PA,PV - Pesquisador Visitante,47550.0
+297,PA,SET - Fixação de Recursos Humanos,70200.0
+298,PB,ADC - Apoio à Difusão do Conhecimento,16528.0
+299,PB,AED - Auxílio a Editoração e Publicação,21300.0
+300,PB,APQ - Auxílio a Pesquisa,7783969.02
+301,PB,ARC - Promoção de Eventos Científicos,160600.0
+302,PB,AT - Apoio Técnico a Pesquisa,59150.0
+303,PB,ATP - Apoio Técnico em Extensão no País ,36450.0
+304,PB,DCR - Desenvolvimento Cientifico Regional,735800.0
+305,PB,DT - Produtividade Desen. Tec. e Extensão ,449000.0
+306,PB,DTI - Desenvolvimento Tecnológico Industrial,514500.0
+307,PB,EXP - Extensão no País,70200.0
+308,PB,GD - Doutorado,4007336.0
+309,PB,GM - Mestrado,2088000.0
+310,PB,IC - Iniciação Científica,4055200.0
+311,PB,ICJ - Iniciação Científica Júnior,272300.0
+312,PB,IEX - Iniciação ao Extensionismo,10800.0
+313,PB,IT - Iniciação Tecnológica,289600.0
+314,PB,ITC - Iniciação Tecnológica em TICs,9000.0
+315,PB,ITI - Iniciação Tecnológica e Industrial,63200.0
+316,PB,PCI - Programa de Capacitação Institucional,1948290.0
+317,PB,PDI - Pos-doutorado Empresarial,41000.0
+318,PB,PDJ - Pós-doutorado Júnior,733500.0
+319,PB,PDS - Pós-doutorado Sênior,52800.0
+320,PB,PQ - Produtividade em Pesquisa,5113500.0
+321,PB,SET - Fixação de Recursos Humanos,92300.0
+322,PB,SWP - Doutorado-Sanduiche no Pais,4400.0
+323,PE,ADC - Apoio à Difusão do Conhecimento,2898.0
+324,PE,AED - Auxílio a Editoração e Publicação,43000.0
+325,PE,APQ - Auxílio a Pesquisa,18984945.14
+326,PE,ARC - Promoção de Eventos Científicos,240000.0
+327,PE,AT - Apoio Técnico a Pesquisa,523400.0
+328,PE,ATP - Apoio Técnico em Extensão no País ,72850.0
+329,PE,DCR - Desenvolvimento Cientifico Regional,1587150.0
+330,PE,DT - Produtividade Desen. Tec. e Extensão ,496300.0
+331,PE,DTI - Desenvolvimento Tecnológico Industrial,1569860.0
+332,PE,EV - Especialista Visitante,82500.0
+333,PE,EXP - Extensão no País,148080.0
+334,PE,GD - Doutorado,7697848.76
+335,PE,GM - Mestrado,3594000.0
+336,PE,IC - Iniciação Científica,5454800.0
+337,PE,ICJ - Iniciação Científica Júnior,128800.0
+338,PE,IT - Iniciação Tecnológica,356400.0
+339,PE,ITC - Iniciação Tecnológica em TICs,5000.0
+340,PE,ITI - Iniciação Tecnológica e Industrial,140400.0
+341,PE,PDI - Pos-doutorado Empresarial,61500.0
+342,PE,PDJ - Pós-doutorado Júnior,837000.0
+343,PE,PDS - Pós-doutorado Sênior,211800.0
+344,PE,PQ - Produtividade em Pesquisa,8824120.0
+345,PE,SET - Fixação de Recursos Humanos,287900.0
+346,PE,SWP - Doutorado-Sanduiche no Pais,11000.0
+347,PI,ADC - Apoio à Difusão do Conhecimento,4830.0
+348,PI,AED - Auxílio a Editoração e Publicação,64000.0
+349,PI,APQ - Auxílio a Pesquisa,1365163.05
+350,PI,AT - Apoio Técnico a Pesquisa,26250.0
+351,PI,ATP - Apoio Técnico em Extensão no País ,7200.0
+352,PI,DCR - Desenvolvimento Cientifico Regional,433150.0
+353,PI,DT - Produtividade Desen. Tec. e Extensão ,46200.0
+354,PI,DTI - Desenvolvimento Tecnológico Industrial,21200.0
+355,PI,EV - Especialista Visitante,38500.0
+356,PI,GD - Doutorado,267182.0
+357,PI,GM - Mestrado,234000.0
+358,PI,IC - Iniciação Científica,1484000.0
+359,PI,ICJ - Iniciação Científica Júnior,76400.0
+360,PI,IEX - Iniciação ao Extensionismo,360.0
+361,PI,IT - Iniciação Tecnológica,128800.0
+362,PI,ITC - Iniciação Tecnológica em TICs,19500.0
+363,PI,ITI - Iniciação Tecnológica e Industrial,32800.0
+364,PI,PDJ - Pós-doutorado Júnior,36000.0
+365,PI,PDS - Pós-doutorado Sênior,120000.0
+366,PI,PQ - Produtividade em Pesquisa,1106780.0
+367,PI,SET - Fixação de Recursos Humanos,269000.0
+368,PR,AED - Auxílio a Editoração e Publicação,166750.0
+369,PR,APQ - Auxílio a Pesquisa,35296740.01
+370,PR,ARC - Promoção de Eventos Científicos,705000.0
+371,PR,AT - Apoio Técnico a Pesquisa,210250.0
+372,PR,ATP - Apoio Técnico em Extensão no País ,94000.0
+373,PR,DT - Produtividade Desen. Tec. e Extensão ,1140680.0
+374,PR,DTI - Desenvolvimento Tecnológico Industrial,1206000.0
+375,PR,EV - Especialista Visitante,200000.0
+376,PR,EXP - Extensão no País,116100.0
+377,PR,GD - Doutorado,8605804.76
+378,PR,GM - Mestrado,2970000.0
+379,PR,IC - Iniciação Científica,7652800.0
+380,PR,ICJ - Iniciação Científica Júnior,388900.0
+381,PR,IEX - Iniciação ao Extensionismo,1440.0
+382,PR,IT - Iniciação Tecnológica,1726800.0
+383,PR,ITI - Iniciação Tecnológica e Industrial,200000.0
+384,PR,PDI - Pos-doutorado Empresarial,57400.0
+385,PR,PDJ - Pós-doutorado Júnior,2034000.0
+386,PR,PDS - Pós-doutorado Sênior,52800.0
+387,PR,PQ - Produtividade em Pesquisa,15459820.0
+388,PR,PV - Pesquisador Visitante,36400.0
+389,PR,SET - Fixação de Recursos Humanos,1141300.0
+390,PR,SWP - Doutorado-Sanduiche no Pais,15400.0
+391,RJ,ADC - Apoio à Difusão do Conhecimento,498388.0
+392,RJ,AED - Auxílio a Editoração e Publicação,411950.0
+393,RJ,APQ - Auxílio a Pesquisa,69217720.32
+394,RJ,ARC - Promoção de Eventos Científicos,1288500.0
+395,RJ,AT - Apoio Técnico a Pesquisa,304800.0
+396,RJ,ATP - Apoio Técnico em Extensão no País ,154100.0
+397,RJ,DT - Produtividade Desen. Tec. e Extensão ,734080.0
+398,RJ,DTI - Desenvolvimento Tecnológico Industrial,5698480.0
+399,RJ,EV - Especialista Visitante,272000.0
+400,RJ,EXP - Extensão no País,869240.0
+401,RJ,GD - Doutorado,32011898.51
+402,RJ,GM - Mestrado,9610500.0
+403,RJ,IC - Iniciação Científica,18342400.0
+404,RJ,ICJ - Iniciação Científica Júnior,6383900.0
+405,RJ,IEX - Iniciação ao Extensionismo,720.0
+406,RJ,IT - Iniciação Tecnológica,1783200.0
+407,RJ,ITC - Iniciação Tecnológica em TICs,10000.0
+408,RJ,ITI - Iniciação Tecnológica e Industrial,501200.0
+409,RJ,PAV - Bolsa Pesquisador-Avaliador,34000.0
+410,RJ,PCI - Programa de Capacitação Institucional,9397444.0
+411,RJ,PDI - Pos-doutorado Empresarial,73800.0
+412,RJ,PDJ - Pós-doutorado Júnior,4238702.25
+413,RJ,PDS - Pós-doutorado Sênior,740150.0
+414,RJ,PQ - Produtividade em Pesquisa,42680424.72
+415,RJ,PV - Pesquisador Visitante,150800.0
+416,RJ,SET - Fixação de Recursos Humanos,688400.0
+417,RJ,SWP - Doutorado-Sanduiche no Pais,31600.0
+418,RN,ADC - Apoio à Difusão do Conhecimento,31421.5
+419,RN,AED - Auxílio a Editoração e Publicação,25000.0
+420,RN,APQ - Auxílio a Pesquisa,6693197.03
+421,RN,ARC - Promoção de Eventos Científicos,237000.0
+422,RN,AT - Apoio Técnico a Pesquisa,51650.0
+423,RN,ATP - Apoio Técnico em Extensão no País ,52950.0
+424,RN,DT - Produtividade Desen. Tec. e Extensão ,143000.0
+425,RN,DTI - Desenvolvimento Tecnológico Industrial,248680.0
+426,RN,EV - Especialista Visitante,55000.0
+427,RN,EXP - Extensão no País,45000.0
+428,RN,GD - Doutorado,2243255.56
+429,RN,GM - Mestrado,1470000.0
+430,RN,IC - Iniciação Científica,2936000.0
+431,RN,ICJ - Iniciação Científica Júnior,195100.0
+432,RN,IT - Iniciação Tecnológica,225200.0
+433,RN,ITI - Iniciação Tecnológica e Industrial,98000.0
+434,RN,PDI - Pos-doutorado Empresarial,16400.0
+435,RN,PDJ - Pós-doutorado Júnior,436500.0
+436,RN,PDS - Pós-doutorado Sênior,38400.0
+437,RN,PQ - Produtividade em Pesquisa,4166960.0
+438,RN,SET - Fixação de Recursos Humanos,283180.0
+439,RO,APQ - Auxílio a Pesquisa,2220979.99
+440,RO,AT - Apoio Técnico a Pesquisa,13200.0
+441,RO,ATP - Apoio Técnico em Extensão no País ,3300.0
+442,RO,DCR - Desenvolvimento Cientifico Regional,130700.0
+443,RO,DT - Produtividade Desen. Tec. e Extensão ,36300.0
+444,RO,DTI - Desenvolvimento Tecnológico Industrial,122000.0
+445,RO,EV - Especialista Visitante,12500.0
+446,RO,GD - Doutorado,57068.0
+447,RO,GM - Mestrado,36000.0
+448,RO,IC - Iniciação Científica,523200.0
+449,RO,ICJ - Iniciação Científica Júnior,67900.0
+450,RO,IT - Iniciação Tecnológica,57600.0
+451,RO,ITI - Iniciação Tecnológica e Industrial,1200.0
+452,RO,PDJ - Pós-doutorado Júnior,22500.0
+453,RO,PQ - Produtividade em Pesquisa,101200.0
+454,RO,SET - Fixação de Recursos Humanos,15500.0
+455,RR,APQ - Auxílio a Pesquisa,557093.22
+456,RR,AT - Apoio Técnico a Pesquisa,20250.0
+457,RR,DT - Produtividade Desen. Tec. e Extensão ,12100.0
+458,RR,DTI - Desenvolvimento Tecnológico Industrial,19360.0
+459,RR,GD - Doutorado,142670.0
+460,RR,IC - Iniciação Científica,412000.0
+461,RR,ICJ - Iniciação Científica Júnior,19800.0
+462,RR,IT - Iniciação Tecnológica,45200.0
+463,RR,ITI - Iniciação Tecnológica e Industrial,4000.0
+464,RR,PQ - Produtividade em Pesquisa,26400.0
+465,RS,ADC - Apoio à Difusão do Conhecimento,3300.0
+466,RS,AED - Auxílio a Editoração e Publicação,187650.0
+467,RS,APQ - Auxílio a Pesquisa,50619167.99
+468,RS,ARC - Promoção de Eventos Científicos,585000.0
+469,RS,AT - Apoio Técnico a Pesquisa,272050.0
+470,RS,ATP - Apoio Técnico em Extensão no País ,630800.0
+471,RS,DT - Produtividade Desen. Tec. e Extensão ,1255300.0
+472,RS,DTI - Desenvolvimento Tecnológico Industrial,3934500.0
+473,RS,EV - Especialista Visitante,163500.0
+474,RS,EXP - Extensão no País,493500.0
+475,RS,GD - Doutorado,21237998.11
+476,RS,GM - Mestrado,8142000.0
+477,RS,IC - Iniciação Científica,10370800.0
+478,RS,ICJ - Iniciação Científica Júnior,332100.0
+479,RS,IEX - Iniciação ao Extensionismo,11880.0
+480,RS,IT - Iniciação Tecnológica,1538800.0
+481,RS,ITC - Iniciação Tecnológica em TICs,38500.0
+482,RS,ITI - Iniciação Tecnológica e Industrial,364400.0
+483,RS,PAV - Bolsa Pesquisador-Avaliador,45000.0
+484,RS,PDI - Pos-doutorado Empresarial,349250.0
+485,RS,PDJ - Pós-doutorado Júnior,5121650.0
+486,RS,PDS - Pós-doutorado Sênior,236000.0
+487,RS,PQ - Produtividade em Pesquisa,28437660.0
+488,RS,PV - Pesquisador Visitante,109700.0
+489,RS,SET - Fixação de Recursos Humanos,1607900.0
+490,SC,ADC - Apoio à Difusão do Conhecimento,178545.0
+491,SC,AED - Auxílio a Editoração e Publicação,48500.0
+492,SC,APQ - Auxílio a Pesquisa,26259109.27
+493,SC,ARC - Promoção de Eventos Científicos,349000.0
+494,SC,AT - Apoio Técnico a Pesquisa,130750.0
+495,SC,ATP - Apoio Técnico em Extensão no País ,77200.0
+496,SC,DT - Produtividade Desen. Tec. e Extensão ,541500.0
+497,SC,DTI - Desenvolvimento Tecnológico Industrial,2101520.0
+498,SC,EV - Especialista Visitante,131500.0
+499,SC,EXP - Extensão no País,25300.0
+500,SC,GD - Doutorado,7697974.0
+501,SC,GM - Mestrado,3156000.0
+502,SC,IC - Iniciação Científica,4418400.0
+503,SC,ICJ - Iniciação Científica Júnior,229400.0
+504,SC,IEX - Iniciação ao Extensionismo,14760.0
+505,SC,IT - Iniciação Tecnológica,736000.0
+506,SC,ITC - Iniciação Tecnológica em TICs,20500.0
+507,SC,ITI - Iniciação Tecnológica e Industrial,170000.0
+508,SC,PAV - Bolsa Pesquisador-Avaliador,23700.0
+509,SC,PDI - Pos-doutorado Empresarial,36900.0
+510,SC,PDJ - Pós-doutorado Júnior,1900100.0
+511,SC,PDS - Pós-doutorado Sênior,226800.0
+512,SC,PQ - Produtividade em Pesquisa,10271400.0
+513,SC,PV - Pesquisador Visitante,20800.0
+514,SC,SET - Fixação de Recursos Humanos,1568900.0
+515,SE,APQ - Auxílio a Pesquisa,5367981.62
+516,SE,ARC - Promoção de Eventos Científicos,197000.0
+517,SE,AT - Apoio Técnico a Pesquisa,26950.0
+518,SE,ATP - Apoio Técnico em Extensão no País ,33350.0
+519,SE,DT - Produtividade Desen. Tec. e Extensão ,228900.0
+520,SE,DTI - Desenvolvimento Tecnológico Industrial,125800.0
+521,SE,EXP - Extensão no País,20900.0
+522,SE,GD - Doutorado,690004.0
+523,SE,GM - Mestrado,357000.0
+524,SE,IC - Iniciação Científica,1438400.0
+525,SE,ICJ - Iniciação Científica Júnior,176300.0
+526,SE,IT - Iniciação Tecnológica,214400.0
+527,SE,ITI - Iniciação Tecnológica e Industrial,6400.0
+528,SE,PDJ - Pós-doutorado Júnior,306100.0
+529,SE,PQ - Produtividade em Pesquisa,1563940.0
+530,SE,SET - Fixação de Recursos Humanos,46500.0
+531,SP,ADC - Apoio à Difusão do Conhecimento,168026.0
+532,SP,AED - Auxílio a Editoração e Publicação,1238550.0
+533,SP,APQ - Auxílio a Pesquisa,124628875.83
+534,SP,ARC - Promoção de Eventos Científicos,2936540.62
+535,SP,AT - Apoio Técnico a Pesquisa,415750.0
+536,SP,ATP - Apoio Técnico em Extensão no País ,225000.0
+537,SP,DT - Produtividade Desen. Tec. e Extensão ,2115300.0
+538,SP,DTC - Desenvolvimento Tecnológico em TICs,5265000.0
+539,SP,DTI - Desenvolvimento Tecnológico Industrial,11926600.0
+540,SP,EV - Especialista Visitante,1527000.0
+541,SP,EXP - Extensão no País,42617300.0
+542,SP,GD - Doutorado,62026705.31
+543,SP,GM - Mestrado,21780000.0
+544,SP,IC - Iniciação Científica,20598000.0
+545,SP,ICJ - Iniciação Científica Júnior,1098300.0
+546,SP,IEX - Iniciação ao Extensionismo,360.0
+547,SP,IT - Iniciação Tecnológica,1926400.0
+548,SP,ITC - Iniciação Tecnológica em TICs,32000.0
+549,SP,ITI - Iniciação Tecnológica e Industrial,425881.0
+550,SP,PAV - Bolsa Pesquisador-Avaliador,48900.0
+551,SP,PCI - Programa de Capacitação Institucional,7678840.0
+552,SP,PDI - Pos-doutorado Empresarial,196800.0
+553,SP,PDJ - Pós-doutorado Júnior,9078089.08
+554,SP,PDS - Pós-doutorado Sênior,1700350.0
+555,SP,PQ - Produtividade em Pesquisa,87882874.32
+556,SP,PV - Pesquisador Visitante,182500.0
+557,SP,SET - Fixação de Recursos Humanos,7918000.0
+558,SP,SWP - Doutorado-Sanduiche no Pais,27900.0
+559,TO,APQ - Auxílio a Pesquisa,851165.6
+560,TO,AT - Apoio Técnico a Pesquisa,2750.0
+561,TO,ATP - Apoio Técnico em Extensão no País ,26800.0
+562,TO,DT - Produtividade Desen. Tec. e Extensão ,48400.0
+563,TO,DTI - Desenvolvimento Tecnológico Industrial,916000.0
+564,TO,EXP - Extensão no País,71700.0
+565,TO,GD - Doutorado,339814.0
+566,TO,GM - Mestrado,172500.0
+567,TO,IC - Iniciação Científica,698000.0
+568,TO,ICJ - Iniciação Científica Júnior,46800.0
+569,TO,IT - Iniciação Tecnológica,117600.0
+570,TO,ITI - Iniciação Tecnológica e Industrial,47200.0
+571,TO,PDJ - Pós-doutorado Júnior,49500.0
+572,TO,PQ - Produtividade em Pesquisa,224740.0
+573,TO,PV - Pesquisador Visitante,40322.15
+574,TO,SET - Fixação de Recursos Humanos,35000.0

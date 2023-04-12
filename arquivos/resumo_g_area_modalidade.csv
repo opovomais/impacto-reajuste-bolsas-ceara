@@ -1,0 +1,126 @@
+sigla,modalidade,grande_area,qtd_beneficiarios
+AED,Auxílio a Editoração e Publicação,Ciências Agrárias,1
+APQ,Auxílio a Pesquisa,Ciências Agrárias,10
+ARC,Promoção de Eventos Científicos,Ciências Agrárias,1
+ATP,Apoio Técnico em Extensão no País ,Ciências Agrárias,7
+DCR,Desenvolvimento Cientifico Regional,Ciências Agrárias,7
+DTI,Desenvolvimento Tecnológico Industrial,Ciências Agrárias,16
+EV,Especialista Visitante,Ciências Agrárias,1
+GD,Doutorado,Ciências Agrárias,15
+GM,Mestrado,Ciências Agrárias,57
+IC,Iniciação Científica,Ciências Agrárias,173
+ICJ,Iniciação Científica Júnior,Ciências Agrárias,27
+IT,Iniciação Tecnológica,Ciências Agrárias,42
+ITI,Iniciação Tecnológica e Industrial,Ciências Agrárias,14
+PDJ,Pós-doutorado Júnior,Ciências Agrárias,2
+PDS,Pós-doutorado Sênior,Ciências Agrárias,1
+PQ,Produtividade em Pesquisa,Ciências Agrárias,39
+SET,Fixação de Recursos Humanos,Ciências Agrárias,13
+APQ,Auxílio a Pesquisa,Ciências Biológicas,13
+ARC,Promoção de Eventos Científicos,Ciências Biológicas,2
+AT,Apoio Técnico a Pesquisa,Ciências Biológicas,7
+ATP,Apoio Técnico em Extensão no País ,Ciências Biológicas,2
+DCR,Desenvolvimento Cientifico Regional,Ciências Biológicas,6
+DTI,Desenvolvimento Tecnológico Industrial,Ciências Biológicas,1
+GD,Doutorado,Ciências Biológicas,30
+GM,Mestrado,Ciências Biológicas,18
+IC,Iniciação Científica,Ciências Biológicas,221
+ICJ,Iniciação Científica Júnior,Ciências Biológicas,19
+IT,Iniciação Tecnológica,Ciências Biológicas,13
+PDI,Pos-doutorado Empresarial,Ciências Biológicas,1
+PDJ,Pós-doutorado Júnior,Ciências Biológicas,4
+PQ,Produtividade em Pesquisa,Ciências Biológicas,66
+PV,Pesquisador Visitante,Ciências Biológicas,1
+SET,Fixação de Recursos Humanos,Ciências Biológicas,11
+APQ,Auxílio a Pesquisa,Ciências Exatas e da Terra,11
+ARC,Promoção de Eventos Científicos,Ciências Exatas e da Terra,3
+AT,Apoio Técnico a Pesquisa,Ciências Exatas e da Terra,1
+ATP,Apoio Técnico em Extensão no País ,Ciências Exatas e da Terra,2
+DCR,Desenvolvimento Cientifico Regional,Ciências Exatas e da Terra,3
+DTI,Desenvolvimento Tecnológico Industrial,Ciências Exatas e da Terra,10
+GD,Doutorado,Ciências Exatas e da Terra,39
+GM,Mestrado,Ciências Exatas e da Terra,53
+IC,Iniciação Científica,Ciências Exatas e da Terra,312
+ICJ,Iniciação Científica Júnior,Ciências Exatas e da Terra,206
+IT,Iniciação Tecnológica,Ciências Exatas e da Terra,53
+ITC,Iniciação Tecnológica em TICs,Ciências Exatas e da Terra,1
+ITI,Iniciação Tecnológica e Industrial,Ciências Exatas e da Terra,2
+PAV,Bolsa Pesquisador-Avaliador,Ciências Exatas e da Terra,1
+PDJ,Pós-doutorado Júnior,Ciências Exatas e da Terra,4
+PQ,Produtividade em Pesquisa,Ciências Exatas e da Terra,115
+SET,Fixação de Recursos Humanos,Ciências Exatas e da Terra,6
+AED,Auxílio a Editoração e Publicação,Ciências Humanas,3
+APQ,Auxílio a Pesquisa,Ciências Humanas,14
+AT,Apoio Técnico a Pesquisa,Ciências Humanas,1
+DCR,Desenvolvimento Cientifico Regional,Ciências Humanas,3
+GD,Doutorado,Ciências Humanas,19
+GM,Mestrado,Ciências Humanas,20
+IC,Iniciação Científica,Ciências Humanas,290
+ICJ,Iniciação Científica Júnior,Ciências Humanas,50
+IT,Iniciação Tecnológica,Ciências Humanas,17
+ITC,Iniciação Tecnológica em TICs,Ciências Humanas,2
+PDS,Pós-doutorado Sênior,Ciências Humanas,1
+PQ,Produtividade em Pesquisa,Ciências Humanas,42
+PV,Pesquisador Visitante,Ciências Humanas,1
+SET,Fixação de Recursos Humanos,Ciências Humanas,3
+APQ,Auxílio a Pesquisa,Ciências Sociais Aplicadas,10
+AT,Apoio Técnico a Pesquisa,Ciências Sociais Aplicadas,4
+GD,Doutorado,Ciências Sociais Aplicadas,3
+GM,Mestrado,Ciências Sociais Aplicadas,10
+IC,Iniciação Científica,Ciências Sociais Aplicadas,142
+ICJ,Iniciação Científica Júnior,Ciências Sociais Aplicadas,9
+IT,Iniciação Tecnológica,Ciências Sociais Aplicadas,4
+PQ,Produtividade em Pesquisa,Ciências Sociais Aplicadas,31
+PV,Pesquisador Visitante,Ciências Sociais Aplicadas,1
+APQ,Auxílio a Pesquisa,Ciências da Saúde,16
+AT,Apoio Técnico a Pesquisa,Ciências da Saúde,8
+ATP,Apoio Técnico em Extensão no País ,Ciências da Saúde,34
+DTI,Desenvolvimento Tecnológico Industrial,Ciências da Saúde,15
+EV,Especialista Visitante,Ciências da Saúde,1
+EXP,Extensão no País,Ciências da Saúde,15
+GD,Doutorado,Ciências da Saúde,20
+GM,Mestrado,Ciências da Saúde,13
+IC,Iniciação Científica,Ciências da Saúde,356
+ICJ,Iniciação Científica Júnior,Ciências da Saúde,27
+IT,Iniciação Tecnológica,Ciências da Saúde,33
+ITI,Iniciação Tecnológica e Industrial,Ciências da Saúde,5
+PDJ,Pós-doutorado Júnior,Ciências da Saúde,3
+PQ,Produtividade em Pesquisa,Ciências da Saúde,52
+PV,Pesquisador Visitante,Ciências da Saúde,1
+SET,Fixação de Recursos Humanos,Ciências da Saúde,23
+SWP,Doutorado-Sanduiche no Pais,Ciências da Saúde,1
+APQ,Auxílio a Pesquisa,Engenharias,23
+ARC,Promoção de Eventos Científicos,Engenharias,2
+AT,Apoio Técnico a Pesquisa,Engenharias,5
+ATP,Apoio Técnico em Extensão no País ,Engenharias,2
+DCR,Desenvolvimento Cientifico Regional,Engenharias,1
+DTI,Desenvolvimento Tecnológico Industrial,Engenharias,19
+EV,Especialista Visitante,Engenharias,1
+GD,Doutorado,Engenharias,11
+GM,Mestrado,Engenharias,34
+IC,Iniciação Científica,Engenharias,180
+ICJ,Iniciação Científica Júnior,Engenharias,28
+IT,Iniciação Tecnológica,Engenharias,37
+ITC,Iniciação Tecnológica em TICs,Engenharias,2
+ITI,Iniciação Tecnológica e Industrial,Engenharias,15
+PDJ,Pós-doutorado Júnior,Engenharias,3
+PQ,Produtividade em Pesquisa,Engenharias,54
+SET,Fixação de Recursos Humanos,Engenharias,8
+APQ,Auxílio a Pesquisa,"Lingüística, Letras e Artes",1
+AT,Apoio Técnico a Pesquisa,"Lingüística, Letras e Artes",1
+ATP,Apoio Técnico em Extensão no País ,"Lingüística, Letras e Artes",2
+GD,Doutorado,"Lingüística, Letras e Artes",5
+IC,Iniciação Científica,"Lingüística, Letras e Artes",77
+ICJ,Iniciação Científica Júnior,"Lingüística, Letras e Artes",20
+PQ,Produtividade em Pesquisa,"Lingüística, Letras e Artes",9
+APQ,Auxílio a Pesquisa,Outra,11
+AT,Apoio Técnico a Pesquisa,Outra,2
+DTI,Desenvolvimento Tecnológico Industrial,Outra,6
+GM,Mestrado,Outra,5
+IC,Iniciação Científica,Outra,19
+PQ,Produtividade em Pesquisa,Outra,5
+SET,Fixação de Recursos Humanos,Outra,4
+DT,Produtividade Desen. Tec. e Extensão ,Tecnologias,24
+IC,Iniciação Científica,Tecnologias,86
+ICJ,Iniciação Científica Júnior,Tecnologias,6
+IT,Iniciação Tecnológica,Tecnologias,9

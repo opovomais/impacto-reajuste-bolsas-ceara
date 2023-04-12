@@ -1,0 +1,29 @@
+Modalidade,Sigla,Categ/ Nível,Valor Atual,Novo Valor
+Apoio Técnico à Pesquisa,AT,NS,"550,00","770,00"
+Apoio Técnico à Pesquisa,AT,NM,"400,00","560,00"
+Desenvolvimento Científico e Tecnológico Regional,DCR,A,"6.200,00","7.750,00"
+Desenvolvimento Científico e Tecnológico Regional,DCR,B,"5.200,00","6.500,00"
+Desenvolvimento Científico e Tecnológico Regional,DCR,C,"4.200,00","5.250,00"
+Doutorado,GD,-,"2.200,00","3.100,00"
+Doutorado Sanduíche,SWP,-,"2.200,00","3.100,00"
+Doutorado Sanduíche Empresarial,SWI,-,"2.200,00","3.100,00"
+Iniciação Científica,IC,-,"400,00","700,00"
+Iniciação Científica Júnior,ICJ,-,"100,00","300,00"
+Iniciação Tecnológica,IT,-,"400,00","700,00"
+Mestrado,GM,-,"1.500,00","2.100,00"
+Pesquisador Visitante,PV,1,"5.200,00","6.500,00"
+Pós-doutorado Sênior,PDS,-,"4.400,00","5.500,00"
+Pós-doutorado Júnior,PDJ,-,"4.100,00","5.200,00"
+Pós-doutorado Empresarial,PDI,-,"4.100,00","5.200,00"
+Produtividade em Pesquisa,PQ,1A,"1.300,00","1.560,00"
+Produtividade em Pesquisa,PQ,1B,"1.100,00","1.320,00"
+Produtividade em Pesquisa,PQ,1C,"1.100,00","1.320,00"
+Produtividade em Pesquisa,PQ,1D,"1.000,00","1.200,00"
+"Produtividade em Desenvolvimento Tecnológico
+e Extensão Inovadora",DT,1A,"1.300,00","1.560,00"
+"Produtividade em Desenvolvimento Tecnológico
+e Extensão Inovadora",DT,1B,"1.100,00","1.320,00"
+"Produtividade em Desenvolvimento Tecnológico
+e Extensão Inovadora",DT,1C,"1.100,00","1.320,00"
+"Produtividade em Desenvolvimento Tecnológico
+e Extensão Inovadora",DT,1D,"1.000,00","1.200,00"
