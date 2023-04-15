@@ -4,7 +4,7 @@ Após décadas de espera, o Governo Federal anunciou, em fevereiro de 2023, o re
 
 Percebendo o possível impacto que esse aumento terá para essa parcela da população universitária, assim como para projetos de pesquisa que são custeados com os valores repassados pelas instituições de fomento, [O POVO+](https://mais.opovo.com.br/) analisou os dados sobre bolsistas do CNPq e da Capes no Ceará e estimou o impacto financeiro do reajuste.
 
-Os dados levantados mostram que serão distribuídos R$ 3 milhões a mais por mês entre 6.094 bolsistas de diferentes modalidades e áreas do conhecimento só no Ceará após o reajuste anunciado pelo Governo Federal.
+Os dados levantados mostram que serão distribuídos R$ 3 milhões a mais por mês entre 6.094 bolsistas de diferentes modalidades e áreas do conhecimento só no Ceará após o reajuste anunciado pelo Governo Federal. Leia mais informações na reportagem ["A pesquisa, sem um pesquisador, não existe": o impacto do reajuste para bolsistas do Ceará](https://mais.opovo.com.br/reportagens-especiais/2023/04/06/a-pesquisa-sem-um-pesquisador-nao-existe-o-impacto-do-reajuste-para-bolsistas-do-ceara.html).
 
 # Fonte de dados
 - [Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq): Bolsas e Auxílios Pagos - Ano 2022](http://dadosabertos.cnpq.br/pt_BR/dataset/bolsas-e-auxilios-pagos-ano-2022)
